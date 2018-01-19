@@ -1,0 +1,19 @@
+{
+  "name": "npmsatty",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sattypatra/npmSatty.git"
+  },
+  "author": "satty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sattypatra/npmSatty/issues"
+  },
+  "homepage": "https://github.com/sattypatra/npmSatty#readme"
+}
